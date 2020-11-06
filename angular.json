@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "anuglar-employeepoc"
+    }
+  },
+  "defaultProject": "anuglar-employeepoc",
+  "cli": {
+    "analytics": false
+  }
 }
